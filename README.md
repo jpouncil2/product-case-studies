@@ -19,7 +19,7 @@ An authenticated workspace that turns recordings, images, links, and writing int
 
 ## Other public work
 
-[Pouncil & Co](https://www.pouncil.co), [Pouncil.casa](https://pouncil.casa), [JarradPouncil.com and the weekly letter](https://jarradpouncil.com), and [Roomfor](https://roomfor.app) are part of my broader portfolio. Their public pages are linked here for context; dedicated case studies will be added only after the specific role, design evidence, and sharing boundaries are checked. Family-history work is intentionally not presented as a public case study without a privacy review.
+[Pouncil.casa](https://pouncil.casa), [JarradPouncil.com and the weekly letter](https://jarradpouncil.com), and [Roomfor](https://roomfor.app) are part of my broader portfolio. Their public pages are linked here for context; dedicated case studies will be added only after the specific role, design evidence, and sharing boundaries are checked. Family-history work is intentionally not presented as a public case study without a privacy review.
 
 ## How I work
 

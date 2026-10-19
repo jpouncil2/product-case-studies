@@ -8,8 +8,6 @@
 
 **Status:** private client system; selected CRM automations were implemented and validated, while other integrations remained design or prototype work
 
-[Related anonymous case study on Pouncil & Co](https://www.pouncil.co/case-studies/athletic-leadership-pipeline-system)
-
 ## The problem
 
 The organization had leads, relationships, events, and program ideas, but too much of the context lived in conversations and disconnected documents. A full pipeline did not answer the operator's more important questions: Which opportunities were a fit? Who owned the next action? Which follow-ups were overdue? What should be said to each prospect?
@@ -69,7 +67,7 @@ The project also established a reusable delivery pattern—map the real process,
 
 ## What is demonstrated—and what is not
 
-The public [pipeline case](https://www.pouncil.co/case-studies/athletic-leadership-pipeline-system) reports clearer visibility, focused outreach, repeatable CRM structure, and documentation. The private repository supports the workflow and implementation details described above. No revenue increase, reply rate, or customer-scale metric is asserted here.
+The engagement produced clearer pipeline visibility, focused outreach, repeatable CRM structure, and reusable documentation. The private repository supports the workflow and implementation details described above. No revenue increase, reply rate, or customer-scale metric is asserted here.
 
 Slack appeared in workflow specifications as a possible alert/digest channel; the inspected first-deployment plan selected WhatsApp and email instead. I am not presenting Slack as a verified live integration without separate evidence. Likewise, the AI-assisted research and marketing work should not be confused with a production LLM that autonomously researches, writes, and sends outreach.
 

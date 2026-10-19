@@ -2,7 +2,7 @@
 
 **A laundry-service concept tested through strategy, workflow design, and an interactive mobile prototype.**
 
-**Status:** concept and prototype; the proposed app-based business was **not launched**. The resulting decision was not to pursue this direction at that time. [Read the previously published strategy case study](https://www.pouncil.co/case-studies/multi-business-clarity-sprint).
+**Status:** concept and prototype; the proposed app-based business was **not launched**. The resulting decision was not to pursue this direction at that time.
 
 ## The question
 
