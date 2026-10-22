@@ -26,7 +26,7 @@ An invitation-only archive whose validated ingestion path preserves original doc
 
 ## Other public work
 
-[Pouncil.casa](https://pouncil.casa), [JarradPouncil.com and the weekly letter](https://jarradpouncil.com), and [Roomfor](https://roomfor.app) are part of my broader portfolio. Their public pages are linked here for context; dedicated case studies will be added only after the specific role, design evidence, and sharing boundaries are checked. The Garifuna Family Initiative case study shares only sanitized architecture and status evidence; family records and private implementation stay private.
+[JarradPouncil.com and the weekly letter](https://jarradpouncil.com), and [Roomfor](https://roomfor.app) are part of my broader portfolio. Their public pages are linked here for context; dedicated case studies will be added only after the specific role, design evidence, and sharing boundaries are checked. The Garifuna Family Initiative case study shares only sanitized architecture and status evidence; family records and private implementation stay private.
 
 ## How I work
 
