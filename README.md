@@ -6,6 +6,7 @@ I build useful products where product strategy, UX, and implementation meet. My 
 
 | Project | What the case demonstrates | Evidence and status |
 |---|---|---|
+| [Engineering leadership and real-time systems](projects/engineering-leadership/README.md) | Early-stage product direction, managing engineering teams, high-concurrency platform decisions | Public-safe overview · no proprietary implementation details |
 | [Garifuna Family Initiative](projects/garifuna-family/README.md) | Private archival ingestion, provenance, immutable originals, and human-review boundaries | Hosted validation with synthetic material · production intake planned |
 | [Roomfor Studio](projects/roomfor-studio/README.md) | Source-grounded content workflow, responsive UX, architecture, and validation | Working private app · **implemented UI screenshots** |
 | [Sudsy Water](projects/sudsy-water/README.md) | Opportunity framing, mobile service flow, and a decision not to launch | Strategy sprint · **interactive prototype screenshots** |
