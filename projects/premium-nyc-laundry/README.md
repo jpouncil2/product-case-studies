@@ -37,7 +37,7 @@ The supplied 23-slide product pitch contains actual mobile screen concepts I des
 | Account creation | 10 | Keep profile setup short and remember the building |
 | Garment preferences | 11 | Save detergent, starch, softener, and fold choices once |
 | Pickup scheduling | 12 | Prioritize a fast default booking, with optional changes |
-| Service selection and checkout | 13 | Clarify wash-and-fold versus dry cleaning and show cost before confirmation |
+| Service selection, checkout, and confirmation | 13 | Show service choices, order cost, payment details, and the confirmation state |
 | Order tracking | 14 | Make progress and chain-of-custody cues visible |
 
 The visual work uses light, spacious layouts and a consistent blue interface language, with a contrasting action color for next-step controls. The purpose was to make an everyday chore feel reassuring rather than complicated.
@@ -45,7 +45,7 @@ The visual work uses light, spacious layouts and a consistent blue interface lan
 **Evidence classification:** Design-screen concepts from the original pitch deck, not screenshots of production software. They should not be conflated with the separate, locally running exploratory prototype previously shown in this portfolio.
 
 
-### Original concept screens (image upload outstanding)
+### Original concept screens
 
 **Onboarding and customer expectations — deck slide 8**
 
@@ -67,9 +67,9 @@ The visual work uses light, spacious layouts and a consistent blue interface lan
 
 ![Original mobile scheduling screen with dates, times and service instructions](assets/pickup-scheduling.png)
 
-**Service selection and checkout — deck slide 13**
+**Service selection, checkout, and confirmation — deck slide 13**
 
-![Original mobile ordering, confirmation and secure checkout screen concepts](assets/order-and-checkout.png)
+![Three complete original mobile screens showing service selection, secure checkout, and order confirmation](assets/order-and-checkout.png)
 
 **Order status and handoff tracking — deck slide 14**
 
