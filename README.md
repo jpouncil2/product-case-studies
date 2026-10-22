@@ -8,7 +8,7 @@ I build useful products where product strategy, UX, and implementation meet. My 
 |---|---|---|
 | [Garifuna Family Initiative](projects/garifuna-family/README.md) | Private archival ingestion, provenance, immutable originals, and human-review boundaries | Hosted validation with synthetic material · production intake planned |
 | [Roomfor Studio](projects/roomfor-studio/README.md) | Source-grounded content workflow, responsive UX, architecture, and validation | Working private app · **implemented UI screenshots** |
-| [Sudsy Water](projects/sudsy-water/README.md) | Opportunity framing, mobile service flow, and a decision not to launch | Strategy sprint · **interactive prototype screenshots** |
+| [Premium NYC Laundry Service — UX Concept](projects/premium-nyc-laundry/README.md) | Market opportunity, customer/service model, mobile UX concepts, and MVP priorities | Discovery and design · **actual concept screens from a private pitch deck pending public asset review** |
 | [AI-assisted growth operations](projects/ai-assisted-growth-operations/README.md) | CRM, outreach, research, automation, and project leadership | Client-anonymous private workflow · text only to protect client data |
 | [Soulcessful](projects/soulcessful/README.md) | End-to-end website product and UI direction, including a responsive chart-entry experience | Live public site · **desktop and mobile UI screenshots** |
 
