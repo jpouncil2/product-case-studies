@@ -10,6 +10,7 @@ I build useful products where product strategy, UX, and implementation meet. My 
 | [Cross-platform coaching software](projects/cross-platform-coaching-software/README.md) | Early-stage product and engineering leadership, multi-device playbooks, team workflows, funding-stage experience | Historical shipped software · anonymous case study |
 | [Garifuna Family Initiative](projects/garifuna-family/README.md) | Private archival ingestion, provenance, immutable originals, and human-review boundaries | Hosted validation with synthetic material · production intake planned |
 | [Roomfor Studio](projects/roomfor-studio/README.md) | Source-grounded content workflow, responsive UX, architecture, and validation | Working private app · **implemented UI screenshots** |
+| [Premium NYC Laundry Service — UX Concept](projects/premium-nyc-laundry/README.md) | Opportunity assessment, concierge-service journey, actual mobile UI designs, and MVP decisions | Concept and strategy · **seven genuine design-screen extracts** |
 | [CRM-centered growth & delivery system design](projects/ai-assisted-growth-operations/README.md) | End-to-end pipeline architecture, enrichment, AI-assisted outreach, event routing, reporting, and service handoffs | Client-anonymous system-design case · workflow diagram and documented boundaries |
 | [Soulcessful](projects/soulcessful/README.md) | Full-stack chart lifecycle: external API, Postgres persistence, identity/ownership, visual rendering, and reports | Public UI screenshots · **system architecture and chart workflow** |
 
