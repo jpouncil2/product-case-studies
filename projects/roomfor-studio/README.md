@@ -2,7 +2,7 @@
 
 **From raw source material to grounded, editable content — without losing where an idea came from.**
 
-[Live product](https://cs.jarradpouncil.com) · Authenticated access is limited · [Jarrad Pouncil](https://jarradpouncil.com)
+[Product landing page — Roomfor and Roomfor Studio](https://roomfor.app) · The working application remains invitation-limited
 
 > **Portfolio note:** Roomfor Studio is the public brand used for this case study. The working product currently displays the earlier name “Content System” in its header. The screenshots below are unaltered captures of the implemented UI, using synthetic test fixtures rather than real user content.
 
@@ -120,7 +120,7 @@ The application uses a modern TypeScript/React web stack, a relational database 
 ## Current status and limitations
 
 - The core source workflow, private upload, transcription, structured analysis, source library, moments, opportunities, collections, editable content items, carousel preview/rendering, and supported export paths are implemented.
-- The public URL exposes the product shell and sign-in experience; workspace access is intentionally limited.
+- The linked [public landing page](https://roomfor.app) introduces Roomfor and Roomfor Studio; access to the separate working application remains invitation-limited.
 - The in-product name has not yet been changed from the working title “Content System” to Roomfor Studio.
 - The product is still evolving, so this is evidence of a working system rather than a claim of broad public availability or measured customer-scale outcomes.
 - Validation on the reviewed revision passed type checking and linting. The full automated run passed 302 of 303 tests initially; the single timed-out FFmpeg thumbnail test passed immediately when rerun in isolation.

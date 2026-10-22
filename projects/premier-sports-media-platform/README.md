@@ -6,7 +6,7 @@
 |---|---|
 | **Organization** | A premier national sports-media organization (client/employer name intentionally omitted) |
 | **Period** | 2020–2023 |
-| **My role** | Senior engineering manager; approximately 20 engineers across three teams |
+| **My role** | Senior engineering manager; approximately 20 team members across three teams, with three managers reporting directly to me |
 | **Work represented** | Product requirements across mobile, web, OTT, broadcast, fantasy, betting and data science; vendor evaluation; ML data pipelines; real-time distribution and reliability leadership |
 | **Scale** | More than **1 million concurrent device connections**, based on firsthand project experience |
 | **Evidence** | Career experience and a conceptual, non-proprietary architecture—not source code or internal diagrams |
@@ -125,13 +125,13 @@ The work aimed to move operations away from the recurring pattern of “an engin
 
 ### Uptime impact — recalled, not audited
 
-My recollection is that availability moved from **roughly 99.8% toward 99.9%** during the reliability effort. This is an **approximate recollection**, not a published SLA, independently verified measurement, or a controlled before/after comparison. The verified point for this case study is the operational focus and the improvement work, not a precision availability claim.
+My recollection is that availability improved from **roughly 99.8% toward 99.99%** during the reliability effort. This is an **approximate recollection**, not a published SLA, independently verified measurement, or a controlled before/after comparison. The verified point for this case study is the operational focus and the improvement work, not a precision availability claim.
 
 The practical outcome was stronger observability, improved failure tolerance, and a more deliberate approach to handling traffic peaks. I am not reporting quantified incident reductions or on-call savings that I cannot substantiate.
 
 ## Leadership and execution
 
-As a senior manager across **three engineering teams and approximately 20 engineers**, I partnered with product leaders from mobile, web, OTT, broadcast, fantasy, betting, and data science. I was responsible for turning their needs into prioritized engineering work, assessing new data-vendor opportunities, aligning delivery and architectural decisions, and helping engineers deliver and operate complex software.
+As a senior manager, I led **approximately 20 team members across three engineering teams**, with **three managers reporting directly to me**. I partnered with product leaders from mobile, web, OTT, broadcast, fantasy, betting, and data science. I was responsible for turning their needs into prioritized engineering work, assessing new data-vendor opportunities, aligning delivery and architectural decisions, and helping engineers deliver and operate complex software.
 
 That meant working both **outward toward product strategy**—what fan experiences and prediction capabilities new data could support—and **inward toward technical execution**—how to provide the data reliably, at the needed scale, across consuming teams.
 
