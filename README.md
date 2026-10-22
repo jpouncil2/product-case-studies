@@ -11,7 +11,7 @@ I build useful products where product strategy, UX, and implementation meet. My 
 | [Garifuna Family Initiative](projects/garifuna-family/README.md) | Private archival ingestion, provenance, immutable originals, and human-review boundaries | Hosted validation with synthetic material · production intake planned |
 | [Roomfor Studio](projects/roomfor-studio/README.md) | Source-grounded content workflow, responsive UX, architecture, and validation | Working private app · **implemented UI screenshots** |
 | [Sudsy Water](projects/sudsy-water/README.md) | Opportunity framing, mobile service flow, and a decision not to launch | Strategy sprint · **interactive prototype screenshots** |
-| [AI-assisted growth operations](projects/ai-assisted-growth-operations/README.md) | CRM, outreach, research, automation, and project leadership | Client-anonymous private workflow · text only to protect client data |
+| [CRM-centered growth & delivery system design](projects/ai-assisted-growth-operations/README.md) | End-to-end pipeline architecture, enrichment, AI-assisted outreach, event routing, reporting, and service handoffs | Client-anonymous system-design case · workflow diagram and documented boundaries |
 | [Soulcessful](projects/soulcessful/README.md) | End-to-end website product and UI direction, including a responsive chart-entry experience | Live public site · **desktop and mobile UI screenshots** |
 
 ### Featured UI: Roomfor Studio
