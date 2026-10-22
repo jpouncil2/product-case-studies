@@ -12,7 +12,7 @@ I build useful products where product strategy, UX, and implementation meet. My 
 | [Roomfor Studio](projects/roomfor-studio/README.md) | Source-grounded content workflow, responsive UX, architecture, and validation | Working private app · **implemented UI screenshots** |
 | [Sudsy Water](projects/sudsy-water/README.md) | Opportunity framing, mobile service flow, and a decision not to launch | Strategy sprint · **interactive prototype screenshots** |
 | [CRM-centered growth & delivery system design](projects/ai-assisted-growth-operations/README.md) | End-to-end pipeline architecture, enrichment, AI-assisted outreach, event routing, reporting, and service handoffs | Client-anonymous system-design case · workflow diagram and documented boundaries |
-| [Soulcessful](projects/soulcessful/README.md) | End-to-end website product and UI direction, including a responsive chart-entry experience | Live public site · **desktop and mobile UI screenshots** |
+| [Soulcessful](projects/soulcessful/README.md) | Full-stack chart lifecycle: external API, Postgres persistence, identity/ownership, visual rendering, and reports | Public UI screenshots · **system architecture and chart workflow** |
 
 ### Featured UI: Roomfor Studio
 
