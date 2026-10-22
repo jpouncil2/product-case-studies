@@ -6,7 +6,7 @@
 **Location context:** New York City, particularly high-service residential buildings.  
 **My contribution:** Opportunity assessment, product strategy, user flows, mobile UX concept design, scope definition, positioning, and implementation/operational trade-off analysis.
 
-> **Confidentiality:** The business is deliberately unnamed in the editorial case study. Some original concept screen designs retain the working brand used in the presentation; that is intentional. The screenshots are design concepts, **not evidence of a launched product or live payments, driver tracking, or integrations.**
+> **Confidentiality:** The business is deliberately unnamed in the editorial case study. Some design images retain the original working brand; that is intentional. The screenshots are design concepts, **not evidence of a launched product or live payments, driver tracking, or integrations.**
 
 ## Problem: a service experience with a trust gap
 
@@ -16,7 +16,7 @@ Our product thesis was that the mobile app should not merely take orders. It sho
 
 ## The customer and service model
 
-The pitch explored three audience segments:
+We identified three audience segments:
 
 | Audience | Need surfaced by the concept |
 |---|---|
@@ -26,56 +26,55 @@ The pitch explored three audience segments:
 
 The proposed service model paired a directly accountable laundry operation with a premium digital layer, rather than positioning the app as a marketplace of unknown gig workers. This was a **proposed operating model**, not a claim about how an active service operated.
 
-## UI and product decisions
+## Designing the customer journey
 
-The supplied 23-slide product pitch contains actual mobile screen concepts I designed for the following experience. The seven screenshots below have been cropped directly from the original concept slides without altering their internal UI or working branding. **Evidence:** all seven PNGs are original concept-screen extracts, preserved at their source dimensions. They are designs from the pitch, not screenshots of a launched application.
+The design work translated a proposed premium laundry service into a complete customer experience: learn how the service works, create an account, set garment-care preferences, schedule pickup, select services, review payment, and follow an order through delivery.
 
-| Concept screen | Original deck slide | Design intent |
-|---|---:|---|
-| Onboarding introduction | 8 | Explain the service before asking for information |
-| Concierge-friendly handoff | 9 | Normalize building pickup and return expectations |
-| Account creation | 10 | Keep profile setup short and remember the building |
-| Garment preferences | 11 | Save detergent, starch, softener, and fold choices once |
-| Pickup scheduling | 12 | Prioritize a fast default booking, with optional changes |
-| Service selection, checkout, and confirmation | 13 | Show service choices, order cost, payment details, and the confirmation state |
-| Order tracking | 14 | Make progress and chain-of-custody cues visible |
+The guiding product principle was **reduce coordination without sacrificing trust**. Each step had to clarify the next physical handoff, give customers control over care preferences, and make order status understandable. The following images are original design concepts—not production screens or evidence that payments, pickups, or tracking were operating live.
 
-The visual work uses light, spacious layouts and a consistent blue interface language, with a contrasting action color for next-step controls. The purpose was to make an everyday chore feel reassuring rather than complicated.
+### Introduce the service before asking for a commitment
 
-**Evidence classification:** Design-screen concepts from the original pitch deck, not screenshots of production software. They should not be conflated with the separate, locally running exploratory prototype previously shown in this portfolio.
+![Two mobile onboarding concepts showing pickup scheduling and wash-and-fold service explanation](assets/onboarding.png)
 
+The introduction brings the end-to-end promise into view: convenient pickup, careful cleaning, and simple return delivery. We used a friendly illustrated style to make the process feel approachable.
 
-### Original concept screens
+### Explain pickup, progress, and the return handoff
 
-**Onboarding and customer expectations — deck slide 8**
+![Mobile concept screens introducing order progress and delivery](assets/concierge-handoff.png)
 
-![Two original onboarding screen concepts showing pickup scheduling and wash-and-fold service explanation](assets/onboarding.png)
+For customers in residential buildings, the handoff is part of the product. The experience clarifies what happens between scheduling and delivery, rather than leaving logistics outside the interface.
 
-**Concierge handoff — deck slide 9**
+### Make account setup straightforward
 
-![Original onboarding screen concepts introducing concierge drop-off and return](assets/concierge-handoff.png)
+![Mobile sign-in and account creation concepts](assets/account-setup.png)
 
-**Sign-in and account creation — deck slide 10**
+Sign-in and account creation keep the initial task short. The experience was designed so customers could establish an account and return without rebuilding their preferences every time.
 
-![Original mobile sign-in and create-account screen concepts](assets/account-setup.png)
+### Remember how each customer wants garments cared for
 
-**Saved garment-care preferences — deck slide 11**
+![Mobile garment-care choices for detergent, softener, starch, folding and preference confirmation](assets/garment-preferences.png)
 
-![Original mobile preference screen concepts for detergent, softener, starch and folding](assets/garment-preferences.png)
+Saved care preferences help turn a recurring service into a repeatable workflow. Detergent, starch, softener, and folding decisions become explicit user choices rather than assumptions.
 
-**Pickup scheduling — deck slide 12**
+### Make scheduling and special instructions easy
 
-![Original mobile scheduling screen with dates, times and service instructions](assets/pickup-scheduling.png)
+![Mobile pickup date and time scheduling concept with a field for service instructions](assets/pickup-scheduling.png)
 
-**Service selection, checkout, and confirmation — deck slide 13**
+Customers can select pickup and delivery windows and provide relevant instructions. This is where the digital promise meets the operational constraints of routes, building access, and service capacity.
 
-![Three complete original mobile screens showing service selection, secure checkout, and order confirmation](assets/order-and-checkout.png)
+### Show the order, price, payment, and confirmation clearly
 
-**Order status and handoff tracking — deck slide 14**
+![Three mobile concepts showing service selection, checkout, and order confirmation](assets/order-and-checkout.png)
 
-![Original mobile order tracking and details screen concepts](assets/order-tracking.png)
+The design connects selecting services and quantities with a visible estimate, payment review, and an understandable confirmation state. It helps customers see what they requested and what should happen next. Displayed prices and payment states are illustrative.
 
-These images are **design artifacts** from a proposal. Content, quoted ratings, service availability, transaction confirmation and tracking states shown in them are **illustrative**, not verified live operations.
+### Let customers return and follow the order
+
+![Mobile concepts for order-tracking progress and saved account/order details](assets/order-tracking.png)
+
+The tracking and account views reinforce continuity: users should be able to return to a saved order, understand its stage, and see relevant details without calling to ask what happened.
+
+Across the experience, the visual language uses spacious layouts, a consistent blue interface, and prominent actions to keep the next step recognizable. The design is presented as **proposed UX and service design**, not a launched mobile application.
 
 ## MVP scope and sequencing
 
@@ -88,14 +87,14 @@ This prioritization balanced getting to an understandable transaction with recog
 
 ## Service design, acquisition, and operating constraints
 
-The deck connected product design to operations and customer acquisition:
+The product strategy connected interface decisions to operations and customer acquisition:
 
 - **Building relationships:** Treat concierge processes and property-manager relationships as part of the service experience.
 - **Focused launch geography:** Design routes and outreach around a coherent cluster of high-service residential buildings instead of citywide coverage.
 - **Word-of-mouth and local awareness:** Explore referrals and geographically focused outreach where adjacent households could share a dependable experience.
 - **Risks to validate:** Concierge participation, driver handoff scans, service consistency, and return-use after an initial order.
 
-The original pitch also modeled a pilot operating target, a multi-phase growth roadmap, and illustrative demand projections. Those were **planning assumptions**, not achieved results. Exact client-specific assumptions and locations are omitted from this public summary.
+Planning also considered a focused pilot, phased rollout, and illustrative demand assumptions. These were **planning assumptions**, not achieved results, and client-specific commercial details are omitted.
 
 ## Outcome
 
@@ -103,14 +102,6 @@ The discovery effort produced a market and service hypothesis, audience definiti
 
 The app and proposed business were **not launched** in this phase. The meaningful outcome was making the customer experience and operational commitments clear enough to support a decision not to pursue the build at that time.
 
-## Design artifacts and sharing status
-
-A 10-slide **sanitized portfolio excerpt** has been prepared from the original deck. It includes the actual concept screens while removing client-identifying editorial headings, named pilot locations, internal growth targets, and launch planning detail. Some screen designs still display the working brand, as explicitly permitted for screenshots.
-
-**Portfolio review:** seven authentic concept screen extracts are published on this page. A shorter, client-anonymized presentation excerpt has been prepared for separate review; the original private 23-slide pitch deck has not been published here.
-
-This case study prioritizes the original UI design screens and the product decisions they illustrate. A separate exploratory coded prototype is not presented as launch evidence.
-
 ---
 
-**Authorship note:** I led the concept and design work represented in the pitch, with AI assistance in the broader exploration. This case study does not claim a live service, independently validated market traction, or manually authored production source code.
+**Authorship note:** I led the concept and design work shown here, with AI assistance in the broader exploration. This case study does not claim a live service, independently validated market traction, or manually authored production source code.
