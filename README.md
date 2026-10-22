@@ -6,6 +6,8 @@ I build useful products where product strategy, UX, and implementation meet. My 
 
 | Project | What the case demonstrates | Evidence and status |
 |---|---|---|
+| [Premier sports-media real-time platform](projects/premier-sports-media-platform/README.md) | WebSockets, pub/sub, 1M+ concurrent connections, observability and operational reliability | Experience-based architecture · anonymous case study |
+| [Cross-platform coaching software](projects/cross-platform-coaching-software/README.md) | Early-stage product and engineering leadership, multi-device playbooks, team workflows, funding-stage experience | Historical shipped software · anonymous case study |
 | [Garifuna Family Initiative](projects/garifuna-family/README.md) | Private archival ingestion, provenance, immutable originals, and human-review boundaries | Hosted validation with synthetic material · production intake planned |
 | [Roomfor Studio](projects/roomfor-studio/README.md) | Source-grounded content workflow, responsive UX, architecture, and validation | Working private app · **implemented UI screenshots** |
 | [Sudsy Water](projects/sudsy-water/README.md) | Opportunity framing, mobile service flow, and a decision not to launch | Strategy sprint · **interactive prototype screenshots** |
