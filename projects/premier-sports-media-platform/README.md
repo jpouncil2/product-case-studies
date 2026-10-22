@@ -1,13 +1,13 @@
 # Premier sports-media platform — real-time delivery and reliability engineering
 
-**Scaling live data distribution for a high-traffic sports experience while moving from reactive incident response toward observable, resilient operations.**
+**Connecting product teams with new sports data, delivering real-time updates at massive concurrency, and moving reliability from reactive incident response to designed-in operations.**
 
 | | |
 |---|---|
 | **Organization** | A premier national sports-media organization (client/employer name intentionally omitted) |
 | **Period** | 2020–2023 |
 | **My role** | Senior engineering manager; approximately 20 engineers across three teams |
-| **Work represented** | Real-time fan-facing data distribution, platform architecture leadership, system reliability, incident readiness, and operational improvements |
+| **Work represented** | Product requirements across mobile, web, OTT, broadcast, fantasy, betting and data science; vendor evaluation; ML data pipelines; real-time distribution and reliability leadership |
 | **Scale** | More than **1 million concurrent device connections**, based on firsthand project experience |
 | **Evidence** | Career experience and a conceptual, non-proprietary architecture—not source code or internal diagrams |
 
@@ -18,6 +18,49 @@ A sports platform has sharp, event-driven demand peaks. Fans expect timely chang
 When I joined, observability was inconsistent across products. Peak traffic could surface **CPU saturation, disk-space pressure, and resource exhaustion on legacy EC2 workloads**. Too often, engineers discovered the issue when something was already degraded and then had to respond during weekends or major events.
 
 This was both a technical and organizational problem: availability depended too heavily on manual intervention, service health was difficult to see consistently, and external-provider or infrastructure failures had the potential to interrupt dependent work.
+
+## Partnering with product teams and identifying new data opportunities
+
+This role also put me at the intersection of **engineering, product, and data strategy**. The data engineering teams were not building for a single front end. We supported many internal product organizations, each with different needs for the data, its freshness, and how it would reach fans.
+
+My product and delivery partners included:
+
+| Internal partner | Nature of the collaboration |
+|---|---|
+| **Mobile applications** | Translate fan-facing feature requirements into data availability, delivery, and integration priorities |
+| **Desktop and web products** | Coordinate dependable sports-data access for web experiences and updates |
+| **OTT / connected-TV applications** | Plan data interfaces suited to live viewing experiences |
+| **Television and broadcast networks** | Support programming and production teams that needed sports information |
+| **Fantasy sports and sports betting products** | Understand specialized sports-data requirements for interactive, data-intensive products |
+| **Data science** | Collaborate on data pipelines to support machine-learning predictions and data-driven product capabilities |
+
+I worked directly with these teams to **collect and clarify requirements, weigh competing priorities, and guide delivery**. That extended my role beyond operating infrastructure: I was also translating what downstream product owners wanted to build into the data capabilities their teams would need.
+
+### Data vendors as a product-discovery channel
+
+I was often among the first people evaluating newly available sports data. I worked with external data vendors and internal stakeholders to understand **what information could be obtained, how it fit existing products, and what entirely new fan experiences it could enable**.
+
+The workflow was both commercial and technical: assess potential data sources, identify prospective product use cases, discuss feasibility with receiving teams, and turn the most valuable opportunities into data-engineering requirements. This case does not disclose vendors, contracts, proprietary data feeds, or unannounced features.
+
+### Data pipelines for machine-learning products
+
+Alongside conventional live-data distribution, the engineering work included **building data pipelines for data-science teams working on machine-learning predictions**. These pipelines enabled model and prediction-oriented work to consume the information it needed. This is a description of cross-team pipeline delivery—not a claim that the WebSocket pub/sub service itself hosted or trained machine-learning models.
+
+```mermaid
+flowchart TD
+    P["Internal product partners: mobile, web, OTT, broadcast, fantasy, betting"]
+    D["Data science / prediction teams"]
+    P --> R["Requirements, prioritization and use-case discovery"]
+    D --> R
+    R --> V["Evaluate available and prospective data vendors"]
+    V --> E["Data engineering: acquisition and delivery work"]
+    E --> RT["Real-time and other product-facing data services"]
+    E --> ML["Data pipelines for ML and predictions"]
+    RT --> P
+    ML --> D
+```
+
+**Diagram scope:** This is an anonymized view of cross-team requirements and delivery, **not** a verified internal architecture showing every data processor, transport, or production integration. The technical implementation details of ML pipelines and vendor feeds are deliberately omitted.
 
 ## Real-time data distribution
 
@@ -88,12 +131,14 @@ The practical outcome was stronger observability, improved failure tolerance, an
 
 ## Leadership and execution
 
-As a senior manager across **three engineering teams and approximately 20 engineers**, I was responsible for translating business and product demands into engineering priorities; aligning system architecture and operational standards; reviewing technical trade-offs; and helping teams deliver and operate complex software.
+As a senior manager across **three engineering teams and approximately 20 engineers**, I partnered with product leaders from mobile, web, OTT, broadcast, fantasy, betting, and data science. I was responsible for turning their needs into prioritized engineering work, assessing new data-vendor opportunities, aligning delivery and architectural decisions, and helping engineers deliver and operate complex software.
 
-The work combined architecture judgment with staff development, engineering planning, cross-team coordination, and operational accountability—not just one isolated service.
+That meant working both **outward toward product strategy**—what fan experiences and prediction capabilities new data could support—and **inward toward technical execution**—how to provide the data reliably, at the needed scale, across consuming teams.
+
+The work combined product discovery, stakeholder communication, vendor evaluation, architecture judgment, staff development, project planning, cross-team coordination, and operational accountability.
 
 ## What this demonstrates for fractional technical leadership
 
-A growing business usually needs both a plan for its next features and an answer to “What happens when the service, vendor, or infrastructure fails?” This engagement illustrates my ability to oversee engineers, reason about architectural scaling, improve system reliability, and make operations a first-class product concern.
+A growing business usually needs both a plan for its next features and an answer to “What happens when the service, vendor, or infrastructure fails?” This engagement illustrates my ability to lead engineers, partner with multiple product teams, evaluate new data-enabled business opportunities, translate requirements into delivery, reason about architectural scaling, and make system reliability a first-class product concern.
 
 **Disclosure:** Employer and internal platform names are intentionally omitted. No employer-owned code, screenshots, architecture documents, incident records, credentials, private system endpoints, or proprietary incident metrics are included. The diagrams are abstractions of firsthand experience.
