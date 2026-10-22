@@ -6,7 +6,8 @@ I build useful products where product strategy, UX, and implementation meet. My 
 
 | Project | What the case demonstrates | Evidence and status |
 |---|---|---|
-| [Engineering leadership and real-time systems](projects/engineering-leadership/README.md) | Early-stage product direction, managing engineering teams, high-concurrency platform decisions | Public-safe overview · no proprietary implementation details |
+| [Premier sports-media real-time platform](projects/premier-sports-media-platform/README.md) | WebSockets, pub/sub, 1M+ concurrent connections, observability and operational reliability | Experience-based architecture · anonymous case study |
+| [Cross-platform coaching software](projects/cross-platform-coaching-software/README.md) | Early-stage product and engineering leadership, multi-device playbooks, team workflows, funding-stage experience | Historical shipped software · anonymous case study |
 | [Garifuna Family Initiative](projects/garifuna-family/README.md) | Private archival ingestion, provenance, immutable originals, and human-review boundaries | Hosted validation with synthetic material · production intake planned |
 | [Roomfor Studio](projects/roomfor-studio/README.md) | Source-grounded content workflow, responsive UX, architecture, and validation | Working private app · **implemented UI screenshots** |
 | [Sudsy Water](projects/sudsy-water/README.md) | Opportunity framing, mobile service flow, and a decision not to launch | Strategy sprint · **interactive prototype screenshots** |
@@ -27,7 +28,7 @@ An invitation-only archive whose validated ingestion path preserves original doc
 
 ## Other public work
 
-[Pouncil.casa](https://pouncil.casa), [JarradPouncil.com and the weekly letter](https://jarradpouncil.com), and [Roomfor](https://roomfor.app) are part of my broader portfolio. Their public pages are linked here for context; dedicated case studies will be added only after the specific role, design evidence, and sharing boundaries are checked. The Garifuna Family Initiative case study shares only sanitized architecture and status evidence; family records and private implementation stay private.
+[JarradPouncil.com and the weekly letter](https://jarradpouncil.com), and [Roomfor](https://roomfor.app) are part of my broader portfolio. Their public pages are linked here for context; dedicated case studies will be added only after the specific role, design evidence, and sharing boundaries are checked. The Garifuna Family Initiative case study shares only sanitized architecture and status evidence; family records and private implementation stay private.
 
 ## How I work
 
