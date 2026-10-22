@@ -28,7 +28,7 @@ The proposed service model paired a directly accountable laundry operation with 
 
 ## UI and product decisions
 
-The supplied 23-slide product pitch contains actual mobile screen concepts I designed for the following experience. Seven screen groups have been extracted for a reviewed portfolio presentation; the corresponding images will be embedded in this public case study after the asset-upload and sharing review.
+The supplied 23-slide product pitch contains actual mobile screen concepts I designed for the following experience. The seven screenshots below have been cropped directly from the original concept slides without altering their internal UI or working branding. **This draft PR will display broken image references until the corresponding `assets/` files from the prepared screenshot pack are uploaded. Do not merge the PR until the images render correctly.**
 
 | Concept screen | Original deck slide | Design intent |
 |---|---:|---|
@@ -43,6 +43,39 @@ The supplied 23-slide product pitch contains actual mobile screen concepts I des
 The visual work uses light, spacious layouts and a consistent blue interface language, with a contrasting action color for next-step controls. The purpose was to make an everyday chore feel reassuring rather than complicated.
 
 **Evidence classification:** Design-screen concepts from the original pitch deck, not screenshots of production software. They should not be conflated with the separate, locally running exploratory prototype previously shown in this portfolio.
+
+
+### Original concept screens (image upload outstanding)
+
+**Onboarding and customer expectations — deck slide 8**
+
+![Two original onboarding screen concepts showing pickup scheduling and wash-and-fold service explanation](assets/onboarding.png)
+
+**Concierge handoff — deck slide 9**
+
+![Original onboarding screen concepts introducing concierge drop-off and return](assets/concierge-handoff.png)
+
+**Sign-in and account creation — deck slide 10**
+
+![Original mobile sign-in and create-account screen concepts](assets/account-setup.png)
+
+**Saved garment-care preferences — deck slide 11**
+
+![Original mobile preference screen concepts for detergent, softener, starch and folding](assets/garment-preferences.png)
+
+**Pickup scheduling — deck slide 12**
+
+![Original mobile scheduling screen with dates, times and service instructions](assets/pickup-scheduling.png)
+
+**Service selection and checkout — deck slide 13**
+
+![Original mobile ordering, confirmation and secure checkout screen concepts](assets/order-and-checkout.png)
+
+**Order status and handoff tracking — deck slide 14**
+
+![Original mobile order tracking and details screen concepts](assets/order-tracking.png)
+
+These images are **design artifacts** from a proposal. Content, quoted ratings, service availability, transaction confirmation and tracking states shown in them are **illustrative**, not verified live operations.
 
 ## MVP scope and sequencing
 
